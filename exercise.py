@@ -1,0 +1,7 @@
+print("Welcome")
+print("to mobile legend")
+print("Welcome "+"to mobile legend")
+print(32)
+print("season")
+print("Welcome "+"to mobile legend "+str(32)+" season")
+print("thank you")

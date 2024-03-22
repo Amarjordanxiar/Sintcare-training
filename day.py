@@ -1,0 +1,2 @@
+way_back = input("Hello, type your name here : ")
+print(way_back + ", Welcome back to lane of dawn. " + "We have missed for a long time. " + "You are offline for " + str(60) + " days around. Nice to see you again.")
